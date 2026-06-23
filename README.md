@@ -4,9 +4,7 @@ A modern calculator application built using **Java Swing** with a clean dark-the
 
 ## 📸 Preview
 
-<img width="350" alt="Calculator UI" src="screenshot.png">
-
-> Add a screenshot of your calculator and rename it as `screenshot.png` in the repository.
+<img width="350" alt="Calculator UI" src="Screenshot.png">
 
 ---
 
